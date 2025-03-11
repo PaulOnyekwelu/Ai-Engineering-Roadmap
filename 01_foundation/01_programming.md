@@ -10666,3 +10666,15 @@ You should now be able to:
 
       🔗 Next: [Math for AI →](./02_math.md)
       
+
+      ## Checkpoint: Before You Move On
+
+      You should now be able to:
+
+      - Build basic Python programs from scratch
+      - Use Git to track and share your code
+      - Navigate the Linux terminal
+      - Understand how code is structured in real-world AI projects
+
+      🔗 Next: [Math for AI →](./02_math.md)
+      
