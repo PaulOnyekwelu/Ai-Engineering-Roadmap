@@ -85,4 +85,4 @@ You should now be able to:
 - Use libraries like Gym and Stable Baselines3
 - Understand the challenges of real-world RL and agent training
 
-🔗 Next: [Modern AI →](../../modern-ai/llms.md)
+🔗 Next: [Modern AI →](../../modern-ai/01_llms.md)

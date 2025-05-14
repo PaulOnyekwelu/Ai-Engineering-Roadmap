@@ -83,6 +83,5 @@ You should now be able to:
 - Implement CNNs for image-related problems and RNNs for sequential data
 - Use PyTorch or TensorFlow to create deep learning models
 
----
 
 🔗 Next: [Specializations →](./05_specializations/nlp.md)
