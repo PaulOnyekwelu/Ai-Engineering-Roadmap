@@ -1,5 +1,4 @@
 # 🎓 Open Source AI Engineering Roadmap
----
 > A complete path to becoming a self-taught AI Engineer — from first lines of code to building autonomous AI agents.  
 > Inspired by [OSSU-CS](https://github.com/ossu/computer-science), powered by free, open-source resources.
 
