@@ -51,10 +51,10 @@ Follow the curriculum in order, or jump to any section you’re ready for. Each 
 
 | Step | Topic | Link | Est. Duration |
 |------|-------|------|---------------|
-| 1 | 🛠️ Programming | [Start Here](./01_foundation/01_programming.md) | 4–6 weeks |
-| 2 | 📐 Math for AI | [Start Here](./01_foundation/02_math.md) | 6–8 weeks |
-| 3 | 🤖 Machine Learning | [Start Here](./01_foundation/03_machine-learning.md) | 6–8 weeks |
-| 4 | 🧠 Deep Learning | [Start Here](./01_foundation/04_deep-learning.md) | 4–6 weeks |
+| 1 | 🛠️ Programming | [Programming Foundation](./01_foundation/01_programming.md) | 4–6 weeks |
+| 2 | 📐 Math for AI | [Mathematics](./01_foundation/02_math.md) | 6–8 weeks |
+| 3 | 🤖 Machine Learning | [ML Concepts](./01_foundation/03_machine-learning.md) | 6–8 weeks |
+| 4 | 🧠 Deep Learning | [DL Concepts](./01_foundation/04_deep-learning.md) | 4–6 weeks |
 | 5 | 🔬 NLP | [Natural Language Processing](./02_specializations/nlp.md) | 3–4 weeks |
 |   | 👁️ Computer Vision | [Computer Vision](./02_specializations/computer-vision.md) | 3–4 weeks |
 |   | 🧭 RL | [Reinforcement Learning](./02_specializations/reinforcement-learning.md) | 3–5 weeks |
@@ -82,7 +82,7 @@ Follow the curriculum in order, or jump to any section you’re ready for. Each 
 
 ## How to Use This
 
-1. Start with the [Foundational](./01_foundation)
+1. Start with the [Foundational](./01_foundation/01_programming.md)
 2. Work at your own pace — most tracks list beginner → advanced
 3. Track your progress in a fork or markdown file
 4. Build portfolio projects as you go

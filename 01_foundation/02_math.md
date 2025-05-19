@@ -2,6 +2,7 @@
 
 Math is the backbone of AI and machine learning. To become an AI engineer, you need a solid understanding of the fundamental mathematical concepts that power algorithms, models, and data manipulation.
 
+
 ## Learning Objectives
 
 By the end of this module, you should be able to:
@@ -10,6 +11,7 @@ By the end of this module, you should be able to:
 - Apply these concepts to machine learning and deep learning algorithms
 - Work with matrices, derivatives, integrals, and probability distributions
 - Solve optimization problems and understand gradient descent
+
 
 ## Why It’s Important
 
@@ -69,3 +71,4 @@ You should now be able to:
 - Use probability and statistics to understand datasets and algorithms
 
 🔗 Next: [Machine Learning →](./03_machine-learning.md)
+
